@@ -1,0 +1,7 @@
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Patikafy\Patikafy\bin\Debug\Patikafy.exe.config
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Patikafy\Patikafy\bin\Debug\Patikafy.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Patikafy\Patikafy\bin\Debug\Patikafy.pdb
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Patikafy\Patikafy\obj\Debug\Patikafy.csproj.AssemblyReference.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Patikafy\Patikafy\obj\Debug\Patikafy.csproj.CoreCompileInputs.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Patikafy\Patikafy\obj\Debug\Patikafy.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Patikafy\Patikafy\obj\Debug\Patikafy.pdb
